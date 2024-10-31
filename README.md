@@ -1,13 +1,13 @@
 # Intro2IT-N07
 ## các khái niệm cơ bản
 #### 1. giới thiệu về máy tính
--Phần cứng: Bao gồm các bộ phận vật lý như:
--Bộ vi xử lý (CPU): Là "não" của máy tính, thực hiện các phép toán và điều khiển hoạt động của máy.
+- Phần cứng: Bao gồm các bộ phận vật lý như:
+- Bộ vi xử lý (CPU): Là "não" của máy tính, thực hiện các phép toán và điều khiển hoạt động của máy.
 Bộ nhớ (RAM): Lưu trữ tạm thời dữ liệu và chương trình đang hoạt động.
--Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài.
--Các thiết bị ngoại vi: Như bàn phím, chuột, màn hình, máy in, v.v.
--Phần mềm: Là các chương trình và hệ điều hành giúp người dùng tương tác với máy tính và thực hiện các tác vụ. Hệ điều hành như Windows, macOS, và Linux là các ví dụ điển hình.
--Máy tính có nhiều loại, từ máy tính để bàn (desktop), laptop, máy tính bảng đến các thiết bị di động như smartphone. Máy tính hiện nay được sử dụng rộng rãi trong nhiều lĩnh vực như kinh doanh, giáo dục, nghiên cứu và giải trí, giúp tăng cường năng suất và khả năng sáng tạo.
+- Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài.
+- Các thiết bị ngoại vi: Như bàn phím, chuột, màn hình, máy in, v.v.
+- Phần mềm: Là các chương trình và hệ điều hành giúp người dùng tương tác với máy tính và thực hiện các tác vụ. Hệ điều hành như Windows, macOS, và Linux là các ví dụ điển hình.
+- Máy tính có nhiều loại, từ máy tính để bàn (desktop), laptop, máy tính bảng đến các thiết bị di động như smartphone. Máy tính hiện nay được sử dụng rộng rãi trong nhiều lĩnh vực như kinh doanh, giáo dục, nghiên cứu và giải trí, giúp tăng cường năng suất và khả năng sáng tạo.
 #### 2. lịch sử phát triển của máy tính
  Giai đoạn đầu (trước thế kỷ 20):
 Máy tính cơ học: Các thiết bị như máy tính bàn tính (abacus) và máy tính cơ học như máy tính của Blaise Pascal (Pascaline) và Charles Babbage (Máy tính phân tích) được phát triển.
