@@ -9,42 +9,42 @@ Bộ nhớ (RAM): Lưu trữ tạm thời dữ liệu và chương trình đang 
 - Phần mềm: Là các chương trình và hệ điều hành giúp người dùng tương tác với máy tính và thực hiện các tác vụ. Hệ điều hành như Windows, macOS, và Linux là các ví dụ điển hình.
 - Máy tính có nhiều loại, từ máy tính để bàn (desktop), laptop, máy tính bảng đến các thiết bị di động như smartphone. Máy tính hiện nay được sử dụng rộng rãi trong nhiều lĩnh vực như kinh doanh, giáo dục, nghiên cứu và giải trí, giúp tăng cường năng suất và khả năng sáng tạo.
 #### 2. lịch sử phát triển của máy tính
- Giai đoạn đầu (trước thế kỷ 20):
-Máy tính cơ học: Các thiết bị như máy tính bàn tính (abacus) và máy tính cơ học như máy tính của Blaise Pascal (Pascaline) và Charles Babbage (Máy tính phân tích) được phát triển.
-Giai đoạn điện tử (1940-1950):
-Máy tính thế hệ đầu tiên: Sự xuất hiện của các máy tính điện tử đầu tiên như ENIAC và UNIVAC. Chúng sử dụng ống chân không và rất cồng kềnh.
-Thế hệ thứ hai (1950-1960):
-Transistor: Sự phát triển của transistor thay thế ống chân không, giúp máy tính nhỏ gọn và hiệu quả hơn. Ví dụ nổi bật là IBM 7094.
-Thế hệ thứ ba (1960-1970):
-Mạch tích hợp (IC): Sự xuất hiện của mạch tích hợp cho phép tích hợp nhiều linh kiện vào một chip, dẫn đến sự ra đời của máy tính mini và microcomputer.
-Thế hệ thứ tư (1970-nay):
-Máy tính cá nhân (PC): Sự ra đời của máy tính cá nhân, như Apple II và IBM PC, giúp máy tính trở nên phổ biến trong hộ gia đình và văn phòng.
-Internet: Sự phát triển của internet trong những năm 1990 đã cách mạng hóa cách mà con người sử dụng máy tính.
-Thế hệ thứ năm (hiện tại và tương lai):
-Trí tuệ nhân tạo (AI) và điện toán đám mây: Sự phát triển của AI, máy học và điện toán đám mây đang thay đổi cách mà máy tính hoạt động và tương tác với con người.
-Máy tính ngày nay đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày, từ công việc, học tập đến giải trí.
+Giai đoạn đầu (trước thế kỷ 20):
+- Máy tính cơ học: Các thiết bị như máy tính bàn tính (abacus) và máy tính cơ học như máy tính của Blaise Pascal (Pascaline) và Charles Babbage (Máy tính phân tích) được phát triển.
+- Giai đoạn điện tử (1940-1950):
+- Máy tính thế hệ đầu tiên: Sự xuất hiện của các máy tính điện tử đầu tiên như ENIAC và UNIVAC. Chúng sử dụng ống chân không và rất cồng kềnh.
+- Thế hệ thứ hai (1950-1960):
+- Transistor: Sự phát triển của transistor thay thế ống chân không, giúp máy tính nhỏ gọn và hiệu quả hơn. Ví dụ nổi bật là IBM 7094.
+- thế hệ thứ ba (1960-1970):
+- Mạch tích hợp (IC): Sự xuất hiện của mạch tích hợp cho phép tích hợp nhiều linh kiện vào một chip, dẫn đến sự ra đời của máy tính mini và microcomputer.
+- Thế hệ thứ tư (1970-nay):
+- Máy tính cá nhân (PC): Sự ra đời của máy tính cá nhân, như Apple II và IBM PC, giúp máy tính trở nên phổ biến trong hộ gia đình và văn phòng.
+- Internet: Sự phát triển của internet trong những năm 1990 đã cách mạng hóa cách mà con người sử dụng máy tính.
+- Thế hệ thứ năm (hiện tại và tương lai):
+- Trí tuệ nhân tạo (AI) và điện toán đám mây: Sự phát triển của AI, máy học và điện toán đám mây đang thay đổi cách mà máy tính hoạt động và tương tác với con người.
+- Máy tính ngày nay đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày, từ công việc, học tập đến giải trí.
 ### 3. các thế hệ máy tính
-Thế hệ thứ nhất (1940-1956):
-Công nghệ: Sử dụng ống chân không.
-Đặc điểm: Cồng kềnh, tiêu tốn nhiều năng lượng và tỏa nhiệt cao. Ví dụ: ENIAC, UNIVAC.
-Ngôn ngữ lập trình: Sử dụng ngôn ngữ máy và assembly.
-Thế hệ thứ hai (1956-1963):
-Công nghệ: Sử dụng transistor thay thế ống chân không.
-Đặc điểm: Nhỏ gọn hơn, hiệu suất cao hơn, tiêu tốn ít năng lượng hơn. Ví dụ: IBM 7094, CDC 1604.
-Ngôn ngữ lập trình: Hỗ trợ ngôn ngữ lập trình bậc cao như COBOL và FORTRAN.
-Thế hệ thứ ba (1964-1971):
-Công nghệ: Sử dụng mạch tích hợp (IC).
-Đặc điểm: Kích thước nhỏ gọn hơn, khả năng xử lý nhanh hơn, chi phí giảm. Ví dụ: IBM System/360.
-Ngôn ngữ lập trình: Phát triển ngôn ngữ lập trình hiện đại và hệ điều hành.
-Thế hệ thứ tư (1971-nay):
-Công nghệ: Sử dụng vi mạch (microprocessor).
-Đặc điểm: Máy tính cá nhân (PC) ra đời, dễ sử dụng và phổ biến trong gia đình và văn phòng. Ví dụ: Apple II, IBM PC.
-Ngôn ngữ lập trình: Ngôn ngữ lập trình đa dạng, hệ điều hành Windows, macOS.
-Thế hệ thứ năm (hiện tại và tương lai):
-Công nghệ: Trí tuệ nhân tạo (AI), điện toán đám mây, và công nghệ lượng tử.
-Đặc điểm: Tập trung vào khả năng học máy, xử lý ngôn ngữ tự nhiên và tự động hóa. Các hệ thống ngày càng thông minh và tích hợp hơn.
-Ngôn ngữ lập trình: Ngôn ngữ lập trình cho AI, như Python và R, đang trở nên phổ biến.
-Mỗi thế hệ máy tính đã đóng góp vào sự phát triển công nghệ và cách mà chúng ta sử dụng máy tính ngày nay.
+- Thế hệ thứ nhất (1940-1956):
+- Công nghệ: Sử dụng ống chân không.
+- Đặc điểm: Cồng kềnh, tiêu tốn nhiều năng lượng và tỏa nhiệt cao. Ví dụ: ENIAC, UNIVAC.
+- Ngôn ngữ lập trình: Sử dụng ngôn ngữ máy và assembly.
+- Thế hệ thứ hai (1956-1963):
+- Công nghệ: Sử dụng transistor thay thế ống chân không.
+- Đặc điểm: Nhỏ gọn hơn, hiệu suất cao hơn, tiêu tốn ít năng lượng hơn. Ví dụ: IBM 7094, CDC 1604.
+- Ngôn ngữ lập trình: Hỗ trợ ngôn ngữ lập trình bậc cao như COBOL và FORTRAN.
+- Thế hệ thứ ba (1964-1971):
+- Công nghệ: Sử dụng mạch tích hợp (IC).
+- Đặc điểm: Kích thước nhỏ gọn hơn, khả năng xử lý nhanh hơn, chi phí giảm. Ví dụ: IBM System/360.
+- Ngôn ngữ lập trình: Phát triển ngôn ngữ lập trình hiện đại và hệ điều hành.
+- Thế hệ thứ tư (1971-nay):
+- Công nghệ: Sử dụng vi mạch (microprocessor).
+- Đặc điểm: Máy tính cá nhân (PC) ra đời, dễ sử dụng và phổ biến trong gia đình và văn phòng. Ví dụ: Apple II, IBM PC.
+- Ngôn ngữ lập trình: Ngôn ngữ lập trình đa dạng, hệ điều hành Windows, macOS.
+- Thế hệ thứ năm (hiện tại và tương lai):
+- Công nghệ: Trí tuệ nhân tạo (AI), điện toán đám mây, và công nghệ lượng tử.
+- Đặc điểm: Tập trung vào khả năng học máy, xử lý ngôn ngữ tự nhiên và tự động hóa. Các hệ thống ngày càng thông minh và tích hợp hơn.
+- Ngôn ngữ lập trình: Ngôn ngữ lập trình cho AI, như Python và R, đang trở nên phổ biến.
+- Mỗi thế hệ máy tính đã đóng góp vào sự phát triển công nghệ và cách mà chúng ta sử dụng máy tính ngày nay.
 #### 4. phần cứng máy tính
 Phần cứng máy tính là các thành phần vật lý của máy tính, có vai trò thiết yếu trong việc hoạt động và xử lý dữ liệu. Các thành phần chính của phần cứng bao gồm:
 Bộ vi xử lý (CPU):
