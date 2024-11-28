@@ -1,4 +1,4 @@
-# Intro2IT-N07
+# de cuong on tap cuoi nam
 ## các khái niệm cơ bản
 #### 1. giới thiệu về máy tính
 - Phần cứng: Bao gồm các bộ phận vật lý như:
@@ -289,3 +289,5 @@ Cách tiếp cận tốt khi làm việc với Git và GitHub:
 - Thực hiện commit thường xuyên: Ghi lại các thay đổi nhỏ để dễ dàng theo dõi.
 - Sử dụng mô tả rõ ràng cho commit: Giúp người khác hiểu mục đích của các thay đổi.
 Quản lý nhánh hợp lý: Tạo nhánh cho từng tính năng hoặc sửa lỗi để giữ cho mã nguồn chính ổn định.
+## Mạng máy tính, ATTT, đạo đức máy tính
+
